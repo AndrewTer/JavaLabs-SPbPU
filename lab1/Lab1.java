@@ -28,7 +28,7 @@ public class Lab1
             anArray[i] = anArray[j];
             anArray[j] = tmp;
             
-            System.out.println("После: "+Arrays.toString(anArray));
+            //System.out.println("После: "+Arrays.toString(anArray));
             return true;
         }
     }
