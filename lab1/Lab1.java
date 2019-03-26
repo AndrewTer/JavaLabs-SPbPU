@@ -33,12 +33,4 @@ public class Lab1
         }
     }
     
-    public static void main(String[] args) 
-    {
-        int[] myArray = {11, 12, 13, 14, 15};
-        int i=1, j=2;
-        System.out.println("До: "+Arrays.toString(myArray));
-        swap(i, j, myArray);
-    }
-    
 }
