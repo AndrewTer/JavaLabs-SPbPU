@@ -1,2 +1,2 @@
-# JavaLabs-SPbPU-
+# JavaLabs
 Лабораторные работы по Java
