@@ -1,15 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package lab1;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
-import org.junit.Test;
+import org.junit.*;
 import static org.junit.Assert.*;
 
 /**
@@ -35,17 +26,6 @@ public class Lab1Test {
     
     @After
     public void tearDown() {
-    }
-
-
-    /**
-     * Test of main method, of class Lab1.
-     */
-    @Test
-    public void testMain() {
-        System.out.println("testMain args=null");
-        String[] args = null;
-        Lab1.main(args);
     }
     
     @Test
